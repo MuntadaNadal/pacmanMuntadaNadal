@@ -5,8 +5,7 @@ public class Taulell {
 		private static char table[][] = new char[17][19];
 		
 		public Taulell(){
-			table= new char [][]{
-	
+			
 					
 			};
 			
