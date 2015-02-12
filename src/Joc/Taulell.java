@@ -6,24 +6,7 @@ public class Taulell {
 		
 		public Taulell(){
 			table= new char [][]{
-				"###################".toCharArray()
-				,"#........#........#".toCharArray()
-				,"#.##.###.#.###.##.#".toCharArray()
-				,"#.................#".toCharArray()
-				,"#.##.#.#####.#.##.#".toCharArray()
-				,"#....#...#...#....#".toCharArray()
-				,"####.###.#.###.####".toCharArray()
-				,"####.#.......#.####".toCharArray()
-				,"####...#####...####".toCharArray()
-				,"####.#.......#.####".toCharArray()
-				,"####.###.#.###.####".toCharArray()
-				,"#....#...#...#....#".toCharArray()
-				,"#.##.#.#####.#.##.#".toCharArray()
-				,"#.................#".toCharArray()
-				,"#.##.###.#.###.##.#".toCharArray()
-				,"#........#........#".toCharArray()
-				,"###################".toCharArray()
-				
+	
 					
 			};
 			
