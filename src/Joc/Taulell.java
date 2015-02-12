@@ -11,7 +11,7 @@ public class Taulell {
 			
 		}	
 		
-
+torno a posar un taulell super guay!! 
 		
 
 			}
